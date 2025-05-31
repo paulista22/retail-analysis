@@ -3,12 +3,12 @@ A extensive data analysis from a retail company Europe
 ## Project Diagram
 
 ## Steps
-1. Download Data
+1. Data Download 
 2. Database creation
-3. EDA in jupyternotebook
-4. Cleaning and transformation data
-5. Creation of views
-6. Dashboards and conclusions
+3. Exploratory Data Analysis (EDA) in Jupyter Notebook
+4. Data Cleaning and Transformation
+5. Creation of SQL Views
+6. Dashboards and Conclusions
 
 ## Useful Links
 [Kaggle Dataset](https://www.kaggle.com/datasets/cemeraan/fecom-inc-e-com-marketplace-orders-data-crm)
