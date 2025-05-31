@@ -1,7 +1,7 @@
 # Retail-Analysis
 A extensive data analysis from a retail company Europe
 ## Project Diagram
-
+![Texto alternativo](image/project%20diagram.png)
 ## Steps
 1. Data Download 
 2. Database creation
