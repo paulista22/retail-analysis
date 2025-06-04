@@ -1,4 +1,4 @@
-CREATE DATABASE project;
+--CREATE DATABASE project;
 
 CREATE TABLE customer_list_clean (
     Customer_Trx_ID VARCHAR(50),
@@ -22,8 +22,8 @@ CREATE TABLE order_payments_clean (
 );
 
 CREATE TABLE order_reviews_clean (
-    Review_ID VARCHAR(50),
-    Order_ID VARCHAR(50),
+    Review_ID VARCHAR(255),
+    Order_ID VARCHAR(255),
     Review_Score FLOAT,
     Review_Comment_Title_En TEXT,
     Review_Comment_Message_En TEXT,
