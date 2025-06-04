@@ -77,8 +77,3 @@ CREATE TABLE sellers_clean (
     Country_Code VARCHAR(10),
     Seller_Country VARCHAR(100)
 );
-
-
-
-
-
