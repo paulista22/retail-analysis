@@ -22,18 +22,6 @@ CREATE TABLE order_payments_clean (
 );
 
 CREATE TABLE order_reviews_clean (
-    Review_ID VARCHAR(50),
-    Order_ID VARCHAR(50),
-    Review_Score FLOAT,
-    Review_Comment_Title_En TEXT,
-    Review_Comment_Message_En TEXT,
-    Review_Creation_Date DATE,
-    Review_Answer_Timestamp TIMESTAMP
-);
-
-DROP TABLE IF EXISTS order_reviews_clean;
-
-CREATE TABLE order_reviews_clean (
     Review_ID VARCHAR(255),
     Order_ID VARCHAR(255),
     Review_Score FLOAT,
