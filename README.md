@@ -1,5 +1,5 @@
 # Retail-Analysis
-A extensive data analysis from a retail company Europe
+A extensive data analysis from a retail company in Europe
 ## Project Diagram
 ![Data diagram](image/project%20diagram.png)
 ## Steps
