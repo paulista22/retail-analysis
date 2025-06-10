@@ -10,16 +10,14 @@ A extensive data analysis from a retail company Europe
 5. Creation of SQL Views
 ## Dashboards
 ### Analysis of customer profile
-![Data diagram](C:\Users\paubr\projects\retail-analysis\6.Dashboards\Analysis of customer profile.png)
+![Customer Profile](6.Dashboards/Analysis of customer profile.png)
 ### Analysis of category products
-![Data diagram](C:\Users\paubr\projects\retail-analysis\6.Dashboards\Analysis of category products.png)
+![Category Products](6.Dashboards/Analysis of category products.png)
 ### Analysis of orders
-![Data diagram](C:\Users\paubr\projects\retail-analysis\6.Dashboards\Analysis of orders.png)
+![Orders](6.Dashboards/Analysis of orders.png)
 ### Analysis of sales and orders
-![Data diagram](C:\Users\paubr\projects\retail-analysis\6.Dashboards\Analysis of sales and orders.png)
+![Sales and Orders](6.Dashboards/Analysis of sales and orders.png)
 ### Analysis of sales team
-![Data diagram](C:\Users\paubr\projects\retail-analysis\6.Dashboards\Analysis of sales team.png)
+![Sales Team](6.Dashboards/Analysis of sales team.png)
 ## Useful Links
 [Kaggle Dataset](https://www.kaggle.com/datasets/cemeraan/fecom-inc-e-com-marketplace-orders-data-crm)
-
-https://github.com/paulista22/retail-analysis/blob/final-branch/6.Dashboards/Analysis%20of%20category%20products.png
