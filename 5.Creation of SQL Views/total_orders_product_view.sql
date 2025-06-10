@@ -1,6 +1,6 @@
 DROP VIEW IF EXISTS total_orders_product;
 
-CREATE VIEW  total_orders_product AS (
+CREATE VIEW  total_orders_products AS (
     SELECT 
         p.product_category_name, c.customer_country AS country, ROUND(SUM(oi.price::numeric)) AS total_Sell,
         COUNT(oi.order_id) AS total_orders
