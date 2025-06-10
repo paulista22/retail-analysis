@@ -21,3 +21,5 @@ A extensive data analysis from a retail company Europe
 ![Data diagram](C:\Users\paubr\projects\retail-analysis\6.Dashboards\Analysis of sales team.png)
 ## Useful Links
 [Kaggle Dataset](https://www.kaggle.com/datasets/cemeraan/fecom-inc-e-com-marketplace-orders-data-crm)
+
+https://github.com/paulista22/retail-analysis/blob/final-branch/6.Dashboards/Analysis%20of%20category%20products.png
