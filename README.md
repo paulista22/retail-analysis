@@ -1,5 +1,5 @@
-# Retail-Analysis
-A extensive data analysis from a retail company in Europe
+# E-commerce Retail Analysis – Fecom Inc. (2022–2024)
+A comprehensive retail dataset from a fictional European e-commerce company, covering orders, customers, products, and transactions between 2022 and 2024.
 ## Project Diagram
 ![Data diagram](image/project%20diagram.png)
 ## Steps
