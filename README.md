@@ -1,5 +1,14 @@
 # E-commerce Retail Analysis – Fecom Inc. (2022–2024)
-A comprehensive retail dataset from a fictional European e-commerce company, covering orders, customers, products, and transactions between 2022 and 2024.
+A comprehensive retail dataset from a fictional European e-commerce company, containing over 100,000 orders across 8 interconnected tables, covering customers, products, and transactions between 2022 and 2024.
+The objective of this project is to analyze sales data from Fecom Inc. to answer key business questions. The analysis will focus on identifying:
+
+Geographic Performance: The top three countries by sales volume.
+
+Product Insights: The types of products most frequently purchased in those top countries, as well as the company's overall best-selling items.
+
+Customer Profiling: The key characteristics of the most valuable customer segments, both overall and within the top-performing regions.
+
+Seasonal Trends: How sales vary throughout the year in order to optimize inventory.
 ## Project Diagram
 ![Data diagram](image/project%20diagram.png)
 ## Steps
