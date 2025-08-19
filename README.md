@@ -21,6 +21,18 @@ Seasonal Trends: How sales vary throughout the year in order to optimize invento
 ### Analysis of customer profile
 **Dashboard Objective:** 
 Provide a comprehensive view of subscriber profiles and purchasing behavior from 2021 to 2024, in order to generate insights that support customer segmentation, optimize marketing campaigns, and prioritize the markets with the greatest potential.
+**Finding 1: Geographic Dominance**
+The analysis reveals that Germany, France, and the Netherlands are the top three markets for both sales and orders.
+
+**Finding 2: Key Demographic Profile**
+The highest-spending customer profile is male, accounting for 56.34% of sales.
+
+The average subscriber age is 38, with the 20-40 age range concentrating the most spending.
+
+**Finding 3: Business Growth and Value**
+The customer base grew to 96,100 subscribers, with a peak in growth during 2024.
+
+In total, customers generated €13.59 million in sales.
 
 ![Data diagram](6.Dashboards/Analysis%20of%20customer%20profile.png)
 ### Analysis of category products
@@ -29,8 +41,16 @@ Highlight the top-rated and most purchased product categories, along with prefer
 ![Data diagram](6.Dashboards/Analysis%20of%20category%20products.png)
 
 ### Analysis of orders
+**Dashboard Objective:**
+Monitor delivery times and order fulfillment rates to identify delays, optimize operations, and ensure timely customer deliveries.
 ![Data diagram](6.Dashboards/Analysis%20of%20orders.png)
+
 ### Analysis of sales and orders
+**Dashboard Objective:**
+To monitor and analyze the commercial performance and operational health of the sales process.
 ![Data diagram](6.Dashboards/Analysis%20of%20sales%20and%20orders.png)
+
 ### Analysis of sales team
+**Dashboard Objective:**
+Track sales volume, revenue by store, and top-selling products to support strategic sales decisions and optimize commercial performance.
 ![Data diagram](6.Dashboards/Analysis%20of%20sales%20team.png)
