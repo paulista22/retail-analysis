@@ -19,8 +19,9 @@ Seasonal Trends: How sales vary throughout the year in order to optimize invento
 5. [Creation of SQL Views](https://github.com/paulista22/retail-analysis/tree/main/5.Creation%20of%20SQL%20Views)
 ## Dashboards
 ### Analysis of customer profile
-Dashboard Objective:
+**Dashboard Objective:** 
 Provide a comprehensive view of subscriber profiles and purchasing behavior from 2021 to 2024, in order to generate insights that support customer segmentation, optimize marketing campaigns, and prioritize the markets with the greatest potential.
+
 ![Data diagram](6.Dashboards/Analysis%20of%20customer%20profile.png)
 ### Analysis of category products
 ![Data diagram](6.Dashboards/Analysis%20of%20category%20products.png)
