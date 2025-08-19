@@ -21,6 +21,7 @@ Seasonal Trends: How sales vary throughout the year in order to optimize invento
 ### Analysis of customer profile
 **Dashboard Objective:** 
 Provide a comprehensive view of subscriber profiles and purchasing behavior from 2021 to 2024, in order to generate insights that support customer segmentation, optimize marketing campaigns, and prioritize the markets with the greatest potential.
+
 **Finding 1: Geographic Dominance**
 The analysis reveals that Germany, France, and the Netherlands are the top three markets for both sales and orders.
 
