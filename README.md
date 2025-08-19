@@ -24,7 +24,10 @@ Provide a comprehensive view of subscriber profiles and purchasing behavior from
 
 ![Data diagram](6.Dashboards/Analysis%20of%20customer%20profile.png)
 ### Analysis of category products
+**Dashboard Objective:**  
+Highlight the top-rated and most purchased product categories, along with preferred payment methods, to support strategic decisions in product and sales management.
 ![Data diagram](6.Dashboards/Analysis%20of%20category%20products.png)
+
 ### Analysis of orders
 ![Data diagram](6.Dashboards/Analysis%20of%20orders.png)
 ### Analysis of sales and orders
